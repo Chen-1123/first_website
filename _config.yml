@@ -4,7 +4,7 @@
 # These settings are used to personalize your new site.
 # They can be accessed in the templates via {{ site.title }}, {{ site.email }}, etc.
 
-title: "Your Awesome Title"
+title: "过去一年"
 email: "your-email@example.com"
 description: "Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
